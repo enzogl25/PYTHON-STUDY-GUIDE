@@ -11,7 +11,6 @@ This is my personal Python Study Guide — organized from beginner to advanced, 
 - `05-Data-Science/` — Numpy, Pandas, Matplotlib, Scikit-Learn
 - `06-GUI/` — Tkinter, Buttons, Entries, Layouts, Frames, CustomTkinter
 - `07-Web/` — Flask, Django, FastAPI
-- `resources/` — Useful links, best practices, and cheat sheets
 
 ## ▶️ How to Use
 
